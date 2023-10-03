@@ -3,4 +3,4 @@ This repository contains stuffs which I mainly found from the internet and few t
 ## Things
 - Just Donut
 ### Just Donut
-play a spinning donut in only using special character
+play a spinning donut only using special character
